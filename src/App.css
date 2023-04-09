@@ -1,5 +1,15 @@
 .App {
   text-align: center;
+  color: black;
+}
+
+.navList {
+  list-style-type: none;
+}
+
+.profilePhoto {
+  height: 400px;
+  width: 300px
 }
 
 .App-logo {
